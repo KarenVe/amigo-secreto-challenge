@@ -20,7 +20,3 @@ Este es un proyecto web interactivo que permite a los usuarios agregar amigos a 
 ## ❗ Posibles problemas y soluciones
 - **Los botones no aparecen:** Asegúrate de agregar al menos un amigo a la lista.
 - **El sorteo no funciona:** Debes agregar al menos 2 amigos antes de sortear.
-
-## 📌 Autor
-Este proyecto fue desarrollado por mi como parte de un desafío de lógica de programación.
-
